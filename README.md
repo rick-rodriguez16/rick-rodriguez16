@@ -1,8 +1,7 @@
 ![MasterHead](https://eiresort.com/wp-content/uploads/2019/12/Enchanted-Isle-Resort-Hollywood-Florida-Banner-5.jpg)
-I ♥ Hollywood, FL, USA!
 
-<h1 align="center">Hi 👋, I'm Rick Rodriguez!</h1>
-<h3 align="center">I'm a software developer and public educator. I have 15+ years of professional experience working in dynamic and multicultural environments. I LOVE full-stack web development, education, data analysis, and problem-solving.</h3>
+<h1 align="center">Rick Rodriguez</h1>
+<h3 align="center">Ricardo is a software developer and public educator.  He has 15+ years of professional experience working in dynamic and multicultural environments. Ricardo is passionate about full-stack web development, education, data analysis, and problem-solving.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rick-rodriguez16](https://github.com/rick-rodriguez16)
 
